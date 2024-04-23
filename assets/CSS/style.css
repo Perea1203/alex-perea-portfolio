@@ -2,19 +2,32 @@
 /* add color scheme through variables */
 }
 
-body {
-    
-}
-
 .header {
-    display: flex;
     padding: 20px;
     background-color: rgb(70, 70, 70);
     color: rgb(78, 183, 190)   
 }
 
-.top-nav {
-    display:flex;
-    justify-content: right;
-    float:right;
+.header h1 {
+    display: inline-block;
+    font: size 48px;
+}
+
+.header h1 .Portfolio {
+    color:white
+}
+
+.header nav {
+    display: block;
+    margin-right: 20px;
+    border: 5px aqua;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.header nav ul li {
+    display: inline-block;
+    list-style-type: none;
 }
