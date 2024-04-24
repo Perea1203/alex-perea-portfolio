@@ -1,5 +1,6 @@
-# alex-perea-portfolio
-Portfolio created as a student in the edX Coding Bootcamp in April 2024. 
+# Alex Perea's Coding Portfolio
+
+### GitHub Repository: *alex-perea-portfolio*
 
 ## Description
 
@@ -8,6 +9,13 @@ A portfolio has been designed to showcase the skills I am acquiring and developi
 ## Snapshot
 img src="INSERT SCREENSHOT ONCE CODE IS COMPLETE" alt="Screenshot of Deployed Application"
 
+## Available Information
+
+ - My name and photograph
+ - Brief information regarding where I come from and where I'm going
+ - My deployed work to date, plus placeholder projects for future works.
+ - Contact information, including access to my LinkedIn resume
+
 ## Useful Sources
 
-In order to complete this challege properly, "Placeholder Projects" were inserted until my portfolio is more robust. Images were sourced from https://www.visitchandler.com/ to provide a live image and link to visit upon review. 
+In order to complete this challege with all acceptance critera met, "Placeholder Projects" have been inserted until my portfolio is more robust. Images were sourced from [Visit Chandler](https://www.visitchandler.com/) to provide a live image and link to visit upon review. 
