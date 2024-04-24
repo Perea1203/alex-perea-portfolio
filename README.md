@@ -1,6 +1,6 @@
 # Alex Perea's Coding Portfolio
 
-### GitHub Repository: *alex-perea-portfolio*
+### GitHub Repository: *[alex-perea-portfolio](https://github.com/Perea1203/alex-perea-portfolio)*
 
 ## Description
 
