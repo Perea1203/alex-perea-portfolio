@@ -1,11 +1,7 @@
-:root {
-/* add color scheme through variables */
-}
-
 .header {
     padding: 20px;
     background-color: rgb(133, 133, 133);
-    color: rgb(156, 98, 31);  
+    color: rgb(156, 98, 31);
 }
 
 .header h1 {
@@ -33,6 +29,7 @@
 .header nav ul li {
     display: inline-flex;
     list-style-type: none;
+    padding: 15px;
 }
 
 .body {
@@ -97,4 +94,11 @@ a:link {
   /* selected link */
   a:active {
     color: rgb(238, 206, 164);
+  }
+
+  @media screen and (max-width:768px) {
+    .about-me,
+    p {
+        flex-direction: column;
+    }
   }
