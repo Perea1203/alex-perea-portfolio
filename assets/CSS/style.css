@@ -4,30 +4,67 @@
 
 .header {
     padding: 20px;
-    background-color: rgb(70, 70, 70);
-    color: rgb(78, 183, 190)   
+    background-color: rgb(133, 133, 133);
+    color: rgb(156, 98, 31);  
 }
 
 .header h1 {
     display: inline-block;
-    font: size 48px;
+    font-size: 50px;
+    text-decoration: underline dotted;
+    text-decoration-color: whitesmoke;
 }
 
-.header h1 .Portfolio {
-    color:white
+.header h1 .portfolio {
+    color:rgb(199, 199, 199);
+    font-size: 38px;
 }
 
 .header nav {
-    display: block;
+    display: flex;
+    padding: 15px;
     margin-right: 20px;
-    border: 5px aqua;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
+    font-size: 28px;
     color: white;
 }
 
 .header nav ul li {
-    display: inline-block;
+    display: inline-flex;
     list-style-type: none;
 }
+
+.body {
+    background-color: rgb(197, 183, 157);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.about-me {
+    background-color: rgba(28, 88, 60, 0.473);
+}
+
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+/* unvisited link */
+a:link {
+    color: rgb(190, 116, 32)   
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(156, 98, 31)   
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(48, 75, 30);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(238, 206, 164);
+  }
