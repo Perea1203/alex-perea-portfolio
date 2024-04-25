@@ -4,10 +4,22 @@
 
 ## Description
 
-A portfolio has been designed to showcase the skills I am acquiring and developing through this course. This portfolio will act as a visual storybook for deployed projects, helping potential employers and business partners quickly and succintly identify the highlights of my strongest works available. This portfolio contains Challege 1 which includes HTML and CSS languages. This portfolio also provides a bit of information about me, how to contact me, and a link to my prior experiences before entering the world of software development. 
+A portfolio has been designed to showcase the skills I am acquiring and developing through this course. This portfolio will act as a visual storybook for deployed projects, helping potential employers and business partners quickly and succintly identify the highlights of my strongest works available. This portfolio contains Challege 1 which includes HTML and CSS languages. This portfolio also provides a bit of information about me, how to contact me, and a link to my prior experiences before entering the world of software development.
+
+#### Languages Used
+
+In order to best demonstrate my understanding of languages acquired to date, this porfolio adopted and demonstrats understanding and functionality of the following:
+ - HTML
+ - CSS, including:
+    - Flexbox
+    - Psuedoclasses/elements
+    - Media Queries
 
 ## Snapshot
-img src="INSERT SCREENSHOT ONCE CODE IS COMPLETE" alt="Screenshot of Deployed Application"
+
+The following image shows the web application's appearance:
+
+![The PEREA Portfolio shows a navigation bar, information about me, a photo, my deployed projects, and how to get in contact with me as well as view my resume on LinkedIn.](./assets/images/Challenge%202%20Snapshot.png)
 
 ## Available Information
 
