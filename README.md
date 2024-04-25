@@ -17,6 +17,8 @@ In order to best demonstrate my understanding of languages acquired to date, thi
 
 ## Snapshot
 
+Please visit the deployed portfolio [here](https://perea1203.github.io/alex-perea-portfolio/)!
+
 The following image shows the web application's appearance:
 
 ![The PEREA Portfolio shows a navigation bar, information about me, a photo, my deployed projects, and how to get in contact with me as well as view my resume on LinkedIn.](./assets/images/Challenge%202%20Snapshot.png)
